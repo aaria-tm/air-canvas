@@ -1,5 +1,4 @@
 # air-canvas
-# 🎨 Air Canvas
 
 Air Canvas is a computer vision project that lets you draw on the screen using hand gestures. It uses a webcam and detects your hand movements to create a virtual drawing experience.
 
@@ -12,6 +11,8 @@ Air Canvas is a computer vision project that lets you draw on the screen using h
 - Works with basic Python libraries
 
 ---
+##check
+https://github.com/aaria-tm/air-canvas.git
 
 ## 🛠️ Tech Stack
 - Python
