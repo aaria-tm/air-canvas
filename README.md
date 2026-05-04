@@ -4,7 +4,7 @@ Air Canvas is a computer vision project that lets you draw on the screen using h
 
 ---
 
-## ✨ Features
+##  Features
 - Draw in the air using hand tracking
 - Real-time webcam processing
 - Simple and lightweight
@@ -14,7 +14,7 @@ Air Canvas is a computer vision project that lets you draw on the screen using h
 ##check
 https://github.com/aaria-tm/air-canvas.git
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Python
 - OpenCV
 - NumPy
@@ -22,7 +22,7 @@ https://github.com/aaria-tm/air-canvas.git
 
 ---
 
-## 📦 Installation
+##  Installation
 
 Install required libraries:
 
